@@ -9,5 +9,6 @@ namespace ClassLibrary2Test
     class Test3
     {
         public string Name { get; set; }
+        public string Number { get; set; }
     }
 }
